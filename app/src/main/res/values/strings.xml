@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Supermercado</string>
+    <string name="lista_vacia">Sin Datos</string>
+    <string name="texto_usuario">Ingrese Usuario</string>
+    <string name="texto_password">Ingrese el password</string>
+    <string name="enviar">Enviar</string>
+</resources>
